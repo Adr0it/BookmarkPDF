@@ -1,5 +1,6 @@
 # BookmarkPDF
 A browser extension that lets you bookmark your pdfs (built upon the doqment PDF viewer).
+![image](https://github.com/Adr0it/BookmarkPDF/assets/46908309/634d9293-eb39-4611-8a5d-e6cdddd16cfb)
 
 Express Install Instructions: 
 1. Download the zip file and unzip the two extensions (the doqument PDF viewer and my bookmarking extension).
