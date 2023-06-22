@@ -4,8 +4,10 @@ A browser extension that lets you bookmark your pdfs (built upon the doqment PDF
 
 Express Install Instructions: 
 1. Download the zip file and unzip the two extensions (the doqument PDF viewer and my bookmarking extension). 
+
 ![image](https://github.com/Adr0it/BookmarkPDF/assets/46908309/0c99c72c-8c43-4346-a92d-32cc1d3928d1)
 2. Go to chrome://extensions and load them in through "Load unpacked"
+
 ![image](https://github.com/Adr0it/BookmarkPDF/assets/46908309/504e4952-9e9f-4306-8c5b-bddba7ed47c5)
 3. *IMPORTANT:* Copy the ID of the doqument extension, navigate to the popup.js of my bookmarking extension, and paste it in where it says "const pdfViewerId = ..."
 
