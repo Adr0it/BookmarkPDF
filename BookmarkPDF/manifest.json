@@ -1,0 +1,17 @@
+{
+"name": "Bookmark PDF",
+"version": "1.0", 
+"manifest_version": 3,
+"icons": {"128": "icons/logo.png"},
+
+"description": "Bookmark your PDFs for easy reading.",
+"action": {
+    "default_title": "Bookmark PDF",
+    "default_popup": "popout.html"
+},
+"permissions": [
+    "storage",
+    "tabs",
+    "management"
+]
+}
